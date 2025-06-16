@@ -1,0 +1,27 @@
+{
+    "gpt-4": {
+        "rate_limit": 0.1,
+        "max_tokens": 1000,
+        "temperature": 0
+    },
+    "gpt-3.5-turbo": {
+        "rate_limit": 0.1,
+        "max_tokens": 1000,
+        "temperature": 0
+    },
+    "claude-3-opus": {
+        "rate_limit": 0.1,
+        "max_tokens": 1000,
+        "temperature": 0
+    },
+    "claude-3-sonnet": {
+        "rate_limit": 0.1,
+        "max_tokens": 1000,
+        "temperature": 0
+    },
+    "deepseek-chat": {
+        "rate_limit": 0.1,
+        "max_tokens": 1000,
+        "temperature": 0
+    }
+}
