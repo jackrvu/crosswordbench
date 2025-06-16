@@ -118,13 +118,6 @@ Supported Models:
   - DeepSeek V3
   - DeepSeek R1
 
-## Best Practices
-
-1. Monitor API usage and costs
-2. Save results regularly
-3. Use appropriate rate limiting for your API tier
-4. Check API documentation for any model-specific limitations or requirements
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
