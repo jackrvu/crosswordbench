@@ -95,9 +95,6 @@ class ModelEvaluator:
             reader = csv.DictReader(f)
             all_rows = list(reader)
         
-        # Limit to 1000 clues
-        all_rows = all_rows[:1000]
-        
         # Process in batches
         for i in tqdm(range(0, len(all_rows), batch_size), desc=f"Evaluating {self.model_name}"):
             batch = all_rows[i:i + batch_size]
