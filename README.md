@@ -92,12 +92,6 @@ Model-specific settings can be adjusted in `config/model_config.json`:
 - Temperature
 - Other model-specific parameters
 
-## Best Practices
-
-1. Start with a small sample size for testing
-2. Monitor API usage and costs
-3. Save results regularly
-4. Use appropriate rate limiting for your API tier
 
 ## License
 
